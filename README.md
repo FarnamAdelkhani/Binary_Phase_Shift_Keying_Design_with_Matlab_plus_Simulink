@@ -1,4 +1,4 @@
-## Comparative Performance Analysis of Basic M-ary PSK Modulation Schemes, Specifically BPSK.
+### Comparative Performance Analysis of Basic M-ary PSK Modulation Schemes, Specifically BPSK.
 
    The bit error rate analysis of BPSK, binary phase shift keying, modulated signal detection is executed in company of additive white Gaussian noise. Matlab and Simulink are utilized to implement a simulation of the system just described. Then, analysis and calculation of the probability of bit error is possible with systems operating in the midst of the additive white Gaussian noise. By doing so, the performance of the modulation techniques implemented can be compared with theoretical values.
 
